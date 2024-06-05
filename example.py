@@ -31,7 +31,7 @@ class ArithmeticPair:
         """
         #return self.x * self.y
 
-    % def quotient(self):
+    def quotient(self):
         """
         Compute :math:`x / y`.
         """
